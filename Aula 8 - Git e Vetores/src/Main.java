@@ -49,7 +49,9 @@ public class Main {
             idade1[cont] = ler.nextInt();
             
         }
-        
+
+
+
 
     }
 }

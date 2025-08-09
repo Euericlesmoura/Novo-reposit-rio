@@ -44,7 +44,7 @@ public class Main {
         int Num1;
         int resultado = 0;
 
-        System.out.println("Olá, bem vindo ao somador ! Informe até 3 números e digite 0 para calcular.");
+        System.out.println("Olá, bem vindo ao somador ! Informe 2 números para somar: ");
 
         do {
             System.out.println("Por favor, digite um número: ");
